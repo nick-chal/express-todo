@@ -1,0 +1,6 @@
+1. Create new Project
+2. Create apis for todos
+3. It should handle errors
+4. Folder structure should be well
+5. Install PostgreSQL create a database todos
+6. Reseatch on how we can connect to this PostgreSQL database from our application
